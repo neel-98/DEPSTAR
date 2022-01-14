@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: f53821fdfea5ba64daa35e6f03d75354
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone_end
+    100004: Ceiling_Fan
+    100006: //RootNode
+    100008: Circle.009
+    100010: Circle.010
+    100012: Circle.011
+    100014: Circle.012
+    100016: Circle.013
+    100018: Circle.014
+    100020: Circle.015
+    100022: Circle.016
+    100024: Circle.017
+    100026: Circle.018
+    100028: Circle.019
+    100030: Circle.020
+    100032: Circle.022
+    100034: Fan_Rig
+    100036: Lower_Part
+    100038: Plane
+    100040: Plane.001
+    100042: Plane.002
+    100044: Upper_Part
+    100046: VerticalSupport
+    100048: WGT-Circle_Arrow
+    400000: Bone
+    400002: Bone_end
+    400004: Ceiling_Fan
+    400006: //RootNode
+    400008: Circle.009
+    400010: Circle.010
+    400012: Circle.011
+    400014: Circle.012
+    400016: Circle.013
+    400018: Circle.014
+    400020: Circle.015
+    400022: Circle.016
+    400024: Circle.017
+    400026: Circle.018
+    400028: Circle.019
+    400030: Circle.020
+    400032: Circle.022
+    400034: Fan_Rig
+    400036: Lower_Part
+    400038: Plane
+    400040: Plane.001
+    400042: Plane.002
+    400044: Upper_Part
+    400046: VerticalSupport
+    400048: WGT-Circle_Arrow
+    2100000: LowerPart
+    2100002: UpperPart
+    2100004: VerticalSupport2
+    2100006: VerticalSupport1
+    2100008: Fans
+    2100010: Bolt
+    2300000: Circle.009
+    2300002: Circle.010
+    2300004: Circle.011
+    2300006: Circle.012
+    2300008: Circle.013
+    2300010: Circle.014
+    2300012: Circle.015
+    2300014: Circle.016
+    2300016: Circle.017
+    2300018: Circle.018
+    2300020: Circle.019
+    2300022: Circle.020
+    2300024: Circle.022
+    2300026: Lower_Part
+    2300028: Plane
+    2300030: Plane.001
+    2300032: Plane.002
+    2300034: Upper_Part
+    2300036: VerticalSupport
+    2300038: WGT-Circle_Arrow
+    3300000: Circle.009
+    3300002: Circle.010
+    3300004: Circle.011
+    3300006: Circle.012
+    3300008: Circle.013
+    3300010: Circle.014
+    3300012: Circle.015
+    3300014: Circle.016
+    3300016: Circle.017
+    3300018: Circle.018
+    3300020: Circle.019
+    3300022: Circle.020
+    3300024: Circle.022
+    3300026: Lower_Part
+    3300028: Plane
+    3300030: Plane.001
+    3300032: Plane.002
+    3300034: Upper_Part
+    3300036: VerticalSupport
+    3300038: WGT-Circle_Arrow
+    4300000: Lower_Part
+    4300002: Upper_Part
+    4300004: VerticalSupport
+    4300006: WGT-Circle_Arrow
+    4300008: Circle.022
+    4300010: Plane
+    4300012: Circle.014
+    4300014: Plane.002
+    4300016: Plane.001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
